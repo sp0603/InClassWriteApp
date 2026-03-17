@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Please enter your name:");
+﻿// Sources - 
+// https://www.c-sharpcorner.com/article/how-to-compare-two-arrays-in-c-sharp/
+// https://www.w3schools.com/cs/cs_arrays.php
+
+Console.WriteLine("Please enter your name:");
 
 string firstName = Console.ReadLine();
 
