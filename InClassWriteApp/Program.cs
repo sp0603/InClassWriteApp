@@ -6,8 +6,6 @@ Console.WriteLine("\nHello " + firstName + "! Please enter the word you want to 
 
 string word = Console.ReadLine();
 
-var isPalindrome = true;
-
 char[] firstString = new char[word.Length];
 char[] secondString = new char[word.Length];
 
